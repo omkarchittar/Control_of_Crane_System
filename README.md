@@ -10,7 +10,7 @@ ENPM667-Final-Project
 - Developing a Luenberger Observer for the system
 - LQG Controller for the Linearized and the Non- Linear Systems
 
-<img src ="slic_algo.png" align= "center" width=500/>
+<img src ="double pendulum crane.png" align= "center" width=500/>
 
 
 ## Control of Robotic Systems 
